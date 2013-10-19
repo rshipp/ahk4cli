@@ -1,0 +1,1 @@
+WinMinimize, %1%

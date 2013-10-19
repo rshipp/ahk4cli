@@ -1,0 +1,1 @@
+WinMaximize, %1%

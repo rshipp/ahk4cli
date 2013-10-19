@@ -1,0 +1,1 @@
+WinClose, %1%
