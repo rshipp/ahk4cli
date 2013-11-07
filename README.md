@@ -6,8 +6,6 @@ that take command line arguments.
 
 ## Tools
 
-#1 is the best number.
-
 * click X Y
 * doubleclick X Y
 * hidetext
